@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        displayLabel.text = "0.0   "
+        displayLabel.text = "0.0"
     }
     
     
